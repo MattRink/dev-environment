@@ -1,0 +1,60 @@
+{
+	"atomic_save": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.db",
+		"*.lib",
+		"*.sublime-workspace",
+		"*.dylib",
+		"*.so",
+		"*.ncb",
+		"*.sdf",
+		"*.exe",
+		"._*",
+		"npm-debug.log",
+		"*.class",
+		"*.psd",
+		"*.obj",
+		"*.dll",
+		"*.o",
+		".DS_Store",
+		"*.pyc",
+		"*.min.js",
+		"*.pyo",
+		"*.a"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".phpintel",
+		".git",
+		"build",
+		"bower_components",
+		"docs"
+	],
+	"font_face": "Source Code Pro for Powerline",
+	"font_options":
+	[
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
